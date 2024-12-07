@@ -31,3 +31,4 @@ switch ($unitChoice) {
     default:
         echo "Invalid choice. Please enter 1 for Farenheits or 2 for Celsius.\n";
 }
+
